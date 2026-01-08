@@ -1,4 +1,15 @@
 # EV-adoption-market-dynamics
+# Project Structure
+
+- **Notebook**: Core analysis and data processing workflow  
+  → `notebooks/ev_adoption_analysis.ipynb`
+
+- **Slides**: Presentation summarizing key findings  
+  → `slides/EV_Adoption_Presentation.pdf`
+
+- **Report**: Detailed written analysis and methodology  
+  → `reports/EV_Adoption_Report.pdf`
+  
 ## Overview
 This project analyzes large-scale electric vehicle (EV) registration data to understand how technology trends, pricing, policy incentives, and regional factors influence EV adoption across the United States.
 
