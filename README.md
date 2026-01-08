@@ -21,5 +21,9 @@ This project analyzes large-scale electric vehicle (EV) registration data to und
 ## Tools & Technologies
 Python, Pandas, NumPy, Matplotlib, Plotly
 
+## Additional Materials
+- Project presentation summarizing key findings and insights
+- Detailed written report (PDF)
+
 ## Notes
 This project was completed as part of graduate-level coursework and focuses on analytical and data processing workflows rather than production deployment.
